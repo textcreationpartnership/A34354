@@ -1,0 +1,252 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Considerations tovching trade, vvith the advance of the Kings revenue, and present reparation of His Maiestie containing these four heads viz. : 1 from the customes : 2 from fines and confiscations : 3 from acts of resumptions : 4 and from subsidies : humbly represented to the view of the right honourable high court of Parliament.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A34354</idno>
+            <idno type="STC">Wing C5921</idno>
+            <idno type="STC">ESTC R2785</idno>
+            <idno type="EEBO-CITATION">12630307</idno>
+            <idno type="OCLC">ocm 12630307</idno>
+            <idno type="VID">64733</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A34354)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 64733)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 252:E148, no 1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Considerations tovching trade, vvith the advance of the Kings revenue, and present reparation of His Maiestie containing these four heads viz. : 1 from the customes : 2 from fines and confiscations : 3 from acts of resumptions : 4 and from subsidies : humbly represented to the view of the right honourable high court of Parliament.</title>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.] ,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649.</term>
+               <term>Great Britain --  History --  Charles I, 1625-1649.</term>
+               <term>Great Britain --  Commerce.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:64733:1" rendition="simple:additions"/>
+            <pb facs="tcp:64733:1" rendition="simple:additions"/>
+            <p>CONSIDERATIONS TOVCHING TRADE, VVith the advance of the <hi>Kings</hi> Revenue, and preſent Reparation of His MAIESTIE;</p>
+            <p>Containing theſe foure Heads viz.
+<list>
+                  <item>1 <hi>From the Cuſtomes.</hi>
+                  </item>
+                  <item>2 <hi>From Fines and Confiſcations.</hi>
+                  </item>
+                  <item>3 <hi>From Acts of Reſumptions.</hi>
+                  </item>
+                  <item>4 <hi>And from Subſidies.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>Humbly Repreſented to the view of the Right Honourable high Court of Parliament.</p>
+            <p>Printed in the yeare, 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:64733:2"/>
+            <pb n="3" facs="tcp:64733:2"/>
+            <head>CONSIDERATIONS TOVCHING TRADE; With the advance of the Kings Revenue, and preſent Reparation of His <hi>MAIESTIE.</hi>
+            </head>
+            <opener>
+               <salute>RIGHT HONOVRABLE,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">A</seg>S one of the meaneſt (amongſt millions) carried in the pub<g ref="char:EOLhyphen"/>like Barke, ſo lately in an impetuous ſtorme; neither can I (as yet) ſay ſecured from the Naufrage; I have taken the boldneſſe to preſent your Honours (the members of the great Councell, of the King and King<g ref="char:EOLhyphen"/>dome) with ſome conſiderations touching the heads of the title, which (as you like them) diſ<g ref="char:EOLhyphen"/>poſe as you pleaſe and ſuffer me to be (as I de<g ref="char:EOLhyphen"/>ſire) obſcured, and to ſtand in the darke, as a
+<pb n="4" facs="tcp:64733:3"/>well Wiſher to my King, and Countrey, ho<g ref="char:EOLhyphen"/>ping that you will pardon my boldneſſe, if I preſent you with the publike feare; which is, that this Parliament will not be ſo propitious as it hath beene hoped, through your own faults, and the deſire that tranſports many of you to ſave his friend; whereby the reformation can<g ref="char:EOLhyphen"/>not have the full effect which it ought to have, which may caſt a brand on your endeavours, in fruſtrating the publike worke, or at leaſt leave an aſperſion on you for a lame and imperfect emendation.</p>
+            <p>It was the late Kings Oracle, that the ſeate of Iuſtice, which now you hold in the greateſt Iudicatory of the Kingdome; is neither a place to pleaſure friends, nor to wrong enemies; for you are <hi>ſuum cui<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> tribuere,</hi> without reſpect of per<g ref="char:EOLhyphen"/>ſons. And then as ſoone as you can, to remem<g ref="char:EOLhyphen"/>ber the Kings graces, in conferring power upon you, whereby to right the publiques, who (in reſpect of his reparation) hath hitherto beene left out of your firſt conſiderations; which in due time is hoped, ſhall neither be forgotten nor ſo ſtinted, that the Limitation may leave be<g ref="char:EOLhyphen"/>hind it the leaſt reſentment of your neglect to<g ref="char:EOLhyphen"/>wards his Majeſties particular.</p>
+            <p>The advance of the Kings Revenue, with the payment of his debts, is doubtleſſe a taske of very great difficulty; ſo to doe it, as that the ſubject in generall (of late yeares ſtrangely op<g ref="char:EOLhyphen"/>preſt)
+<pb n="5" facs="tcp:64733:3"/>may not againe ſinke under that burthen, which may be impoſed by the Parliament, but that the houſe in Iuſtice will endeavour to ſad<g ref="char:EOLhyphen"/>dle the right horſe.</p>
+            <p>Wherefore it is conceived, that there are but foure wayes, how (as from foure Fountaines) this worke may bee beſt done, and with leaſt grutch, to ſet the King upright.</p>
+            <p>And theſe are firſt:
+<list>
+                  <item>1. From the Cuſtomes.</item>
+                  <item>2. From Fines and Confiſcations.</item>
+                  <item>3. From Acts of Reſumptions.</item>
+                  <item>4. From Subſidies.</item>
+               </list>
+            </p>
+            <p>Now the greateſt of any one Income of the Kings, &amp; that which may be much more if well managed, without doubt, is that which iſſueth from the trade, and commerce of the Kingdom, which are the cuſtomes; ſo that if trade be op<g ref="char:EOLhyphen"/>preſt, or impriſoned as now it is; and the mo<g ref="char:EOLhyphen"/>nies of the Kingdome imbeziled and carried out, as ſince the laſt three yeares troubles it hath beene moſt exceſſively, both by the Dutch and French, you may be ſure to ſee (in a very ſhort ſpace) all the land in a generall Indigency and Beggery. For remedy whereof beſides divers peeces tending to this purpoſe; I have ſurvey<g ref="char:EOLhyphen"/>ed three Gentlemens honeſt endeavours. Firſt, that of Sir <hi>Ralph Maddiſons.</hi> 2. Secondly, that of Captaine <hi>Roberts</hi> (both in print.) Thirdly, a ſhort paper in Manuſcript of maſter <hi>William
+<pb n="6" facs="tcp:64733:4"/>Turnours.</hi> And from theſe you may draw ex<g ref="char:EOLhyphen"/>cellent inſtructions, but I preſume Maſter <hi>Tur<g ref="char:EOLhyphen"/>nours</hi> paper of heads will yeeld you more, and by farre, the beſt furniſhments, both for home and forraine trade, with the advance thereof; if the over-merit of them hurt not, and that they bee well underſtood and ſecretly carried; with this Maxime; that a rich ſubject makes a rich Prince.</p>
+            <p>That the cuſtomes in future ſhall be execu<g ref="char:EOLhyphen"/>ted by Commiſſion, is already conceived, to be reſolved by the wiſdome of the Houſe: for by this way the King ſhall be ſure, to have all that which the Farmers, and ſome others have (for many yeares paſt) ſhared and taken from His Majeſty by a great deale of Artifice, and to the great dammage of the univerſall trade of the Kingdome.</p>
+            <p>The whole proceedings whereof during theſe fourty yeares and upwards, no man knowes ſo well as Maſter <hi>Turnour,</hi> as one long verſed in trade, and ſtudied in the advance thereof, toge<g ref="char:EOLhyphen"/>ther with the ſecrets of the Farmes, and wayes of the Farmers.</p>
+            <div type="part">
+               <head>The Contents of Maſter <hi>Turnours</hi> ſecrets are as followeth.</head>
+               <p n="1">1. An evident way how to advance the trade of the kingdome.</p>
+               <p n="2">2. An infallible way, how to preſerve the Kings cuſtomes from ſtealing, which ſhould it
+<pb n="7" facs="tcp:64733:4"/>be put in practiſe, and preſently to vindicate the man, or the party from whence it was ſtolne.</p>
+               <p n="3">3. How to vent all the native commodities of this Kingdome, were they farre more then now they are, at reaſonable and gayning rates, both to the Gentleman, Merchant; and countrey man, and therewith to buy up all ſtrangers commodi<g ref="char:EOLhyphen"/>ties which may lye on their hands, and to ſerve the ſubject at reaſonable priſes, with as much as may ſuffice the Kingdome, and to vent and tranſ<g ref="char:EOLhyphen"/>port the reſt with advantage.</p>
+               <p>How to ſupply His Majeſty within ten dayes warning, with the value of his whole Revenue on any ſudden occaſion, or forraine Enterpriſe, <hi>(gratis)</hi> and ſo from yeare to yeare on the onely credit of his owne Revenue.</p>
+               <p>How to make the citie of <hi>London</hi> the great Mart and Empory of the world.</p>
+               <p>How to manage the fiſhing buſines with eaſe, and to the incredible inriching of the King and the Kingdome, and to the perpetuall honour of the Engliſh Nation.</p>
+            </div>
+            <div type="part">
+               <head>Theſe are Maſter <hi>Turnours</hi> principals, beſides ſome particulars, which are utterly loſt, if but publikely diſputed.</head>
+               <p>For furtherance whereof a principall conſi<g ref="char:EOLhyphen"/>deration will be how to ſettle a Commiſſion for trade, by the authority of the King and the Par<g ref="char:EOLhyphen"/>liament,
+<pb n="8" facs="tcp:64733:5"/>with correſpondency to the Commiſſio<g ref="char:EOLhyphen"/>ners, for managing the Kings Revenue, wherein it is further to bee conſidered, what the houſe ſhall thinke fit to leave on His Majeſty of the preſent Impoſitions, leſt by taking away too much before it be conſulted by the Commiſſio<g ref="char:EOLhyphen"/>ners for trade, when and where to take it, the Kings Revenue may bee made of little conſide<g ref="char:EOLhyphen"/>ration: eſpecially when you ſhall looke backe to the many Alienations and diminutions of the Crowne Lands, and the houſe thereof may be deprived of doing that ſervice, which it is pre<g ref="char:EOLhyphen"/>ſumed they meane to doe, and in that bountifull meaſure, as that it may remaine unparaleld to poſterity.</p>
+               <p>Wherefore it is conceived, that excepting ſome Monopolies which invade the liberty of the land, and intrench on the native commodi<g ref="char:EOLhyphen"/>ties of the Kingdome, you can not well as yet and at preſent take away much, but rather leave it to bee taken away by the Commiſſioners for trade, which ſhould be moſt of them of both houſes with ſome Merchants, whereby as occa<g ref="char:EOLhyphen"/>ſion ſhall preſent it ſelfe, both the native and for<g ref="char:EOLhyphen"/>raine Merchant might be encouraged, and the King with the ſubject in generall well pleaſed, with your diſcreet and provident proceedings, for as one of our weightieſt Authors obſerves, it cannot be well with a ſtate where the Prince and people ſeeke but to obtaine their ſeverall
+<pb n="9" facs="tcp:64733:5"/>ends, and to worke upon the advantages of each others neceſſities,; where they ſhould go hand in hand in a reciprocall co-operation, for the ad<g ref="char:EOLhyphen"/>vance of the publike, wherein the benevolence of the ſubject ſhould ever preceed, the better to draw on the Prince to a Royall retribution, and to comply with his people in all juſt and hono<g ref="char:EOLhyphen"/>rable conjectures.</p>
+               <p>The ſecond Fountaine, from whence His Majeſtie may beſt cheape bee repaied, is from fines and confiſcations, which in the Iuſtice of the houſe may bee laid on delinquents without partiality, and for the eaſe of the ſubject in gene<g ref="char:EOLhyphen"/>rall, ſince it is impoſſible to ſet the King upright (onely by ſubſidies without beggering of the Countrey-man: Wherefore it is preſumed, that ſuch will be the wiſdome of the houſe, that they will lay a good part of the burthen on thoſe which would have laid perpetuall ſlavery and bondage on us all.</p>
+               <p n="3">3. The third Fountaine from whence to re<g ref="char:EOLhyphen"/>paire the King, is from Acts of Reſumptions, and theſe are of two ſorts.</p>
+               <p n="1">1. Firſt, Bargaines and ſales made by the late Commiſſioners for ſale of His Majeſties lands, wherein if it may bee made apparent, that the King hath beene abuſed, and couſened in any particular of conſequence, and that there hath beene divers Bargaines not legally contracted for, and according to the limitation, and war<g ref="char:EOLhyphen"/>rant
+<pb n="6" facs="tcp:64733:6"/>of His Majeſties Co<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> King ought to be righted, ſince <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> that in this way there hath bi<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> frau<g ref="char:EOLhyphen"/>dulent conveyance.</p>
+               <p>A ſecond ſort of Reſ<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ch you account mee no Heretik<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> (I doe not ſay ought to be take<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ch, for that were ſacriledge) ſhould be the Biſhops lands, which in the potency of the <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>apacy have beene, <hi>quo jure,</hi> ingroſſed God know<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s, and <hi>cui bono</hi>-with-held, judge you; and to what end, more then to the perpetuall diſturbance of this Kingdome, and all the world: where a needleſſe ſuperfluity of temporall fortune hath been ever the bellowes to pride, and arrogancy, and a reſt<g ref="char:EOLhyphen"/>leſſe ambition throughout all Ages inſeparable &amp; incident to the pontificiall Clergy which can never be extinguiſhed, till the originall cauſe, a<g ref="char:EOLhyphen"/>bundance of temporall fortune, be removed, which hath ever bin the poyſon of the Church. But with this proviſo, that the Church may firſt be righted, I meane, that all the Impropriations of the land, heretofore meerly raped by the ex<g ref="char:EOLhyphen"/>ceſſe of Epiſcopall power from the church, and annexed to their owne fees; or to the uſeleſſe and idle Monaſteries, may be firſt redeemed out of the Biſhops lands, and reſetled in the old and right place, for the better maintenance and en<g ref="char:EOLhyphen"/>couragement of Schollers and able Divines, whereby the cures and chappels of Eaſe con<g ref="char:EOLhyphen"/>verted
+<pb n="11" facs="tcp:64733:6"/>into Barnes and Stables in many places of the Kingdom, as well as the Mother Churches, may be better ſerved then they have beene, the remainder to bee ſetled on the Duke of <hi>Yorke.</hi> And of this with the many and further reaſons thereof, both for the ſecurity of the King, and quiet of the Kingdome; May you be pleaſed to receive fuller ſatisfaction from a few papers apart, which happily may not be altogether un<g ref="char:EOLhyphen"/>worthy of yours, and the Parliaments ſerious and ſecond conſideration.</p>
+               <p n="4">4. The fourth Fountaine from whence to re<g ref="char:EOLhyphen"/>paire, the King is from ſubſidies, which ſhould they not be ſparingly impoſed. It muſt neceſ<g ref="char:EOLhyphen"/>ſarily begger moſt of the poore inferiour Yeo<g ref="char:EOLhyphen"/>mandry of the Kingdome. Since it is concei<g ref="char:EOLhyphen"/>ved, that 20. ſubſidies cannot ſet the King up<g ref="char:EOLhyphen"/>right, which (I ſay) ſhould they be levyed upon poore Renters and Farmers (generally indeb<g ref="char:EOLhyphen"/>ted) and of late yeares much caſt behind hand, through the late troubles and fall of their com<g ref="char:EOLhyphen"/>modities, would ruine many a poore man. For twenty Subſidies amounts to 20. markes to him that is rated at 5 l. goods, and to 20. l. to him that is rated at 4 l. lands, which muſt inforce one of theſe evils, if he bee not aforehand, to ſell halfe his Cowes, or halfe his Teame to pay the King, who may perhaps owe the Vſurer for all the ſtock he imployes.</p>
+               <p>And here the inequality, and unconſcionable
+<pb n="12" facs="tcp:64733:7"/>diſproportion of rating of the ſubſidies, may be opportunely preſented unto your conſideration, wherin the old Riddle is fully verified, that <hi>Dewce ace</hi> cannot, <hi>ſice ſinke</hi> will not, but <hi>cater trey</hi> muſt, the poorer ſort cannot pay the King: the greater ſort, as having the law in their owne hands, will pay but what they pleaſe, but the middle ſort, they muſt and ſhall pay; and in ſuch a diſproportion as is inſufferable; for de<g ref="char:EOLhyphen"/>monſtration whereof.</p>
+               <p>
+                  <hi>Iohn a ſtyle</hi> hath in the pariſh of <hi>Alcat</hi> 100 l. land <hi>per annum:</hi> And it is all the eſtate hee hath, the Seſſors rates him at 5. l. lands, which is the uſuall ratement for men of that quality; Sir <hi>William a Downes</hi> hath in ſeverall counties and pariſhes 1000. l. <hi>per annum,</hi> reſides at <hi>Grantham,</hi> where he is of the Commiſſion of the peace; and can eaſe himſelfe, and is rated at 20. l. lands, and ſends his Certificate from <hi>Grantham,</hi> how he hath there paid the ſubſidies, which acquits him in all other places.</p>
+               <p>Sir <hi>Iohn a Nokes</hi> hath in divers counties and pariſhes 10000. l. land <hi>per annum,</hi> and is rated 100. l. lands. Now the Parliament for reliefe of the King, grants His Majeſties tenentire ſub<g ref="char:EOLhyphen"/>ſidies, which for <hi>Iohn a ſtyles,</hi> payment, ariſeth to ten pounds: Sir <hi>William a Downes</hi> payment, (whoſe eſtate in true valuation is ten times to that of <hi>Iohn a ſtyles</hi>) ariſeth to 40. l. which ra<g ref="char:EOLhyphen"/>tably ſhould be 100. l. ſo that the King is couſ<g ref="char:EOLhyphen"/>ned
+<pb n="13" facs="tcp:64733:7"/>by Sir <hi>William a Downes</hi> 60. l. in one hun<g ref="char:EOLhyphen"/>dred.</p>
+               <p>And Sir <hi>Iohn a Nokes,</hi> payment ariſeth to 200. l. which rateably to Sir <hi>William a Downes</hi> true valuation, and to <hi>Iohn a ſtyles</hi> ſeſment, it ſhould be 1000. l. So that on true valuation, the King is couſned in 11000. l. land <hi>per annum,</hi> (and held by great men) 860. l. <hi>declaro;</hi> which through the Kingdome, looſeth the King two thirds (at the leaſt) of that which of right his Majeſty ſhould have; which would treble his Majeſties Subſidies, were he well dealt with all: and this is without all contradiction: the remedy whereof is eaſie, let every mans eſtate (where ſo ever it lyes) bee made liable to pay proportionably. And as your <hi>Cater treys</hi> and middle ſort of people, are uſually rated by the Iuſtices or their appointment, then ſhall you doe right, both to the King and the middle ſort of ſubjects.</p>
+               <p>Wherefore you can never doe your ſelves more right, then to redreſſe this abuſe, where you may doe ſuch a ſervice for the King, as that his Majeſty may bee brought in love with you, and with Parliaments, and therewith manifeſt it to the world, that you came not to the houſe to conteſt and capitulate with Soveraignty, but to winne his Majeſty your loyaltie and bounty, and to cure that wound, which others have made almoſt incureable through their inſinceri<g ref="char:EOLhyphen"/>ty,
+<pb n="14" facs="tcp:64733:8"/>and preferring of their perillous and deſpe<g ref="char:EOLhyphen"/>rate counſels, before ſafe and faithfull adviſe. And for the better explanation of the even and juſt rating of lands. If the Parliament ſhall thinke fit to ſeſſe every 100. l. land a yeare that a man hath, to pay 20. s. for a Subſidy.</p>
+               <p>Then if <hi>Iohn a Nokes</hi> hath 100. l. a yeare, (wher<g ref="char:EOLhyphen"/>of 50. l. a yeare lies at <hi>Lambeth</hi>) there hee muſt pay 10. s. &amp; hath 25. l. land a yeare at <hi>Kenſington,</hi> there he muſt pay 5. s. and other 25. l. at <hi>Iſlington,</hi> where he muſt pay the other 5. s. And this pro<g ref="char:EOLhyphen"/>portion to be ſeſſed ratably for every mans e<g ref="char:EOLhyphen"/>ſtate, in ſeverall parts where it lyes.</p>
+               <p>Some conſiderations which have not as yet beene ſpoken of in Parliament, from whence both the King and the Subject (as they may be handled) may reape both infinite profit and contentment, whereof two principals are here offered to your conſideration.</p>
+               <p>The firſt is touching the Court of Wards which concernes none but the rich men of the Kingdome.</p>
+               <p>The ſecond is touching ſuch a Manufacture, as concernes both all the poore and rich men of the Kingdome, which (introduced) will neceſ<g ref="char:EOLhyphen"/>ſarily ſet all the idle and poore people of the land to worke; and inable them to get an honeſt living, after the patterne of <hi>Ed<g ref="char:EOLhyphen"/>ward</hi> the third, who firſt introduced the wool<g ref="char:EOLhyphen"/>len Manufacture, which (to this day) imployes
+<pb n="15" facs="tcp:64733:8"/>a Million of poore People, which without it, within 3. Monthes would ſtarue for want of a ſubſiſtance, for let no man flatter himſelfe that the wools in <hi>England</hi> (were they double in quan<g ref="char:EOLhyphen"/>tity to that which now they are) can imploy all the people of the land; for that the fourth part of the Inhabitants of moſt of the pariſhes of <hi>England,</hi> are miſerable poore people: and (harveſt time excepted) without any ſubſiſtance, the number whereof, daily grow and increaſe, without any re<g ref="char:EOLhyphen"/>gard to the redreſſe.</p>
+               <p>And therefore there can be no ſuch prevention ſo ready and profitable, both for the inriching of the King and the ſubject, as the re-inforcing of the ſowing of hempe and flaxe throughout every pa<g ref="char:EOLhyphen"/>riſh of the Kingdome, which amongſt divers o<g ref="char:EOLhyphen"/>thers, (I know not on what ground) were repeald, <hi>ultimo</hi> of the late Queene, the effects whereof, would be many, both pious and profitable, as</p>
+               <p>Firſt, this manufacture alone, would without doubt imploy all the poore people of the land in the very places of their aboade.</p>
+               <p>Secondly, in very ſhort time wee might all weare our owne lynnen, and therewithall export ſome.</p>
+               <p>Thirdly, wee might uſe our owne ſayles, and cordage, and as good as any is in Europe.</p>
+               <p>Fourthly, wee might ſave the Kingdome, 500000. <hi>per annum,</hi> with the leaſt, expence for lynnen and cordage, to forraigne nations.</p>
+               <pb n="16" facs="tcp:64733:9"/>
+               <p>And of both theſe, as you ſhall approve, you may receive many notable remembrances, both concerning this Manufacture, and the proceedings of this Parliament, touching the Court of Wards, about 11. <hi>Iacobi,</hi> where it was then in queſtion to be compounded for, by the Parliament, with di<g ref="char:EOLhyphen"/>vers paſſages therein, not unfit for your preſent conſideration, if compared with the exceſſive compoſitions there now impoſed, with what in future they may come unto, to the utter ruine of your poſterities. Since the world knowes that the undoing of poor Orphanes (committed by the lawes of the land to the Kings Protection) ſuits not with the nobleneſſe and goodneſſe of the Kings nature: Beſides, the worke-manſhip of Feoders and Eſcheators in the inthraling of the ſubject, and deflowring of the ancient Tenures of the Kingdom; and in drawing in of all the lands (as in ſhort time it may be expected) held in ſoccage, within the Tenure of military ſervice. For if his Majeſty may have more rent then now is, rayſed by the Compoſitions, and the ſubject better con<g ref="char:EOLhyphen"/>cented; when in his life time, he knowes both his owne and his ſonnes payment. I ſee no reaſon but this propoſition may bee acceptable, both to the Soveraigne and ſubject, eſpecially when you ſhal not only know the utter-moſt of your paines, but preſerve your poſterity from falling into a more intricate Laborinth, then is commonly ta<g ref="char:EOLhyphen"/>ken into every mans regard.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
